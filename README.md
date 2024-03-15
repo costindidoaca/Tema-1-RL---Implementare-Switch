@@ -1,6 +1,6 @@
 1 2
 ## Costin Didoaca ##
-## 333CA ##
+
 
 Tema 1 RL
 Implementare Switch
